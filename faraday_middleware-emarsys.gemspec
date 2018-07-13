@@ -12,6 +12,7 @@ Gem::Specification.new do |spec|
   spec.description   = %q{FaradayMiddleware for Emarsys pecifications}
   spec.homepage      = "https://github.com/emartech/faraday_middleware-emarsys"
 
+  spec.license       = 'MIT'
   spec.authors       = ["Adam Luzsi", "Balint Bejczi", "karoly Bujtor"]
   spec.email         = [
     "adamluzsi@gmail.com",
